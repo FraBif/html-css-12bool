@@ -12,3 +12,10 @@ div.row2>*{
     border: 2px solid aqua;
 }
 
+#separa{
+    background-color: white;
+}
+
+span{
+    color: aqua;
+}
