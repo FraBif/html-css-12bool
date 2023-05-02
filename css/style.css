@@ -1,0 +1,6 @@
+div.row>*{
+    background-color: aqua;
+    padding: 2rem;
+    border: 2px solid white;
+}
+
